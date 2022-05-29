@@ -6,7 +6,7 @@ Ruby 3.1.2 の開発環境用の devcontainer
 
 ## 利用方法
 
-1. このリポジトリをダウンロードし、任意のプロジェクトに `.devcontainer` , `.vscode` の 2 つのディレクトリをコピーする。
+1. GitHub アカウントがある場合、 `Use this template` から任意のリポジトリを作成する。ない場合、 `Download zip` からダウンロードする。
 2. VSCode を開き、 `Reopen in Container` を実行する
 
 ## 構成
