@@ -26,3 +26,4 @@ docker-compose で構成
 ## リファレンス
 
 - [Visual Studio Code Doc - Developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
+- [saboyutaka/sinatra\-devcontainer](https://github.com/saboyutaka/sinatra-devcontainer)
